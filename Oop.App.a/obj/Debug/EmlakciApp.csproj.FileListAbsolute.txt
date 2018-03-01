@@ -1,0 +1,16 @@
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\EmlakciApp.exe.config
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\EmlakciApp.exe
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\EmlakciApp.pdb
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\Emlakci.Lib.dll
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\Emlakci.Lib.pdb
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\obj\Debug\EmlakciApp.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\obj\Debug\EmlakciApp.exe
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\obj\Debug\EmlakciApp.pdb
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\EmlakciApp.exe.config
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.App.a\obj\Debug\EmlakciApp.exe
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.App.a\obj\Debug\EmlakciApp.pdb
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\EmlakciApp.exe
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\EmlakciApp.pdb
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\Emlakci.Lib.dll
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\Emlakci.Lib.pdb
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.App.a\obj\Debug\EmlakciApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.Ev.Lib\bin\Debug\Emlakci.Lib.dll
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.Ev.Lib\bin\Debug\Emlakci.Lib.pdb
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.Ev.Lib\obj\Debug\Emlakci.Lib.dll
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.Ev.Lib\obj\Debug\Emlakci.Lib.pdb
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.Ev.Lib\obj\Debug\Emlakci.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.Ev.Lib\bin\Debug\Emlakci.Lib.dll
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.Ev.Lib\bin\Debug\Emlakci.Lib.pdb
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.Ev.Lib\obj\Debug\Emlakci.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.Ev.Lib\obj\Debug\Emlakci.Lib.dll
+C:\Users\Luthien\C#\9.Hafta\Oop.App.a\Oop.Ev.Lib\obj\Debug\Emlakci.Lib.pdb

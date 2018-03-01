@@ -1,0 +1,24 @@
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.exe.config
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.exe
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.pdb
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.csprojResolveAssemblyReference.cache
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.exe
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.pdb
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.exe.config
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.exe
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.pdb
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.App.a\bin\Debug\Oop.Ev.Lib.dll
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.App.a\bin\Debug\Oop.Ev.Lib.pdb
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.exe
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.pdb
+F:\C# KURS\8.Hafta\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.exe.config
+F:\C# KURS\8.Hafta\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.exe
+F:\C# KURS\8.Hafta\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.pdb
+C:\Users\vektorel\Desktop\8.Hafta\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.exe.config
+C:\Users\vektorel\Desktop\8.Hafta\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.exe
+C:\Users\vektorel\Desktop\8.Hafta\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.pdb
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\Oop.App.a.exe.config
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.exe
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\obj\Debug\Oop.App.a.pdb
+C:\Users\vektorel\Desktop\9.Hafta\Oop.App.a\Oop.App.a\bin\Debug\EmlakciApp.exe.config

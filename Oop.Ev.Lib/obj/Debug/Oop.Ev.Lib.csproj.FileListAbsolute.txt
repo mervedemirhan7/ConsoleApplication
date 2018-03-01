@@ -1,0 +1,8 @@
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.Ev.Lib\bin\Debug\Oop.Ev.Lib.dll
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.Ev.Lib\bin\Debug\Oop.Ev.Lib.pdb
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.Ev.Lib\obj\Debug\Oop.Ev.Lib.dll
+c:\users\vektorel\documents\visual studio 2015\Projects\Oop.App.a\Oop.Ev.Lib\obj\Debug\Oop.Ev.Lib.pdb
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.Ev.Lib\bin\Debug\Oop.Ev.Lib.dll
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.Ev.Lib\bin\Debug\Oop.Ev.Lib.pdb
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.Ev.Lib\obj\Debug\Oop.Ev.Lib.dll
+C:\Users\vektorel\Desktop\Oop.App.a\Oop.Ev.Lib\obj\Debug\Oop.Ev.Lib.pdb
